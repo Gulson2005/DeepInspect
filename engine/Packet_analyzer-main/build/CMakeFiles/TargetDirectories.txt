@@ -1,0 +1,3 @@
+C:/Users/gulso/Downloads/dpi-fullstack/engine/Packet_analyzer-main/build/CMakeFiles/packet_analyzer.dir
+C:/Users/gulso/Downloads/dpi-fullstack/engine/Packet_analyzer-main/build/CMakeFiles/edit_cache.dir
+C:/Users/gulso/Downloads/dpi-fullstack/engine/Packet_analyzer-main/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/gulso/Downloads/dpi-fullstack/engine/Packet_analyzer-main/build",
+  "command": "C:\\MinGW\\bin\\c++.exe  @CMakeFiles/packet_analyzer.dir/includes_CXX.rsp -std=gnu++1z -o CMakeFiles\\packet_analyzer.dir\\src\\main.cpp.obj -c C:\\Users\\gulso\\Downloads\\dpi-fullstack\\engine\\Packet_analyzer-main\\src\\main.cpp",
+  "file": "C:/Users/gulso/Downloads/dpi-fullstack/engine/Packet_analyzer-main/src/main.cpp",
+  "output": "CMakeFiles/packet_analyzer.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/gulso/Downloads/dpi-fullstack/engine/Packet_analyzer-main/build",
+  "command": "C:\\MinGW\\bin\\c++.exe  @CMakeFiles/packet_analyzer.dir/includes_CXX.rsp -std=gnu++1z -o CMakeFiles\\packet_analyzer.dir\\src\\pcap_reader.cpp.obj -c C:\\Users\\gulso\\Downloads\\dpi-fullstack\\engine\\Packet_analyzer-main\\src\\pcap_reader.cpp",
+  "file": "C:/Users/gulso/Downloads/dpi-fullstack/engine/Packet_analyzer-main/src/pcap_reader.cpp",
+  "output": "CMakeFiles/packet_analyzer.dir/src/pcap_reader.cpp.obj"
+},
+{
+  "directory": "C:/Users/gulso/Downloads/dpi-fullstack/engine/Packet_analyzer-main/build",
+  "command": "C:\\MinGW\\bin\\c++.exe  @CMakeFiles/packet_analyzer.dir/includes_CXX.rsp -std=gnu++1z -o CMakeFiles\\packet_analyzer.dir\\src\\packet_parser.cpp.obj -c C:\\Users\\gulso\\Downloads\\dpi-fullstack\\engine\\Packet_analyzer-main\\src\\packet_parser.cpp",
+  "file": "C:/Users/gulso/Downloads/dpi-fullstack/engine/Packet_analyzer-main/src/packet_parser.cpp",
+  "output": "CMakeFiles/packet_analyzer.dir/src/packet_parser.cpp.obj"
+}
+]

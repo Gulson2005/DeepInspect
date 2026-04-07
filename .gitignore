@@ -1,0 +1,24 @@
+# Engine binary (do not commit)
+engine/dpi_engine
+
+# Storage files
+storage/uploads/
+storage/output/
+
+# Backend build
+backend/target/
+backend/.mvn/
+
+# Frontend build
+frontend/node_modules/
+frontend/build/
+frontend/.env.local
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
